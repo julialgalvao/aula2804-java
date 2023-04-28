@@ -3,3 +3,14 @@ body{
 
 
 }
+
+p{
+    color: beige;
+    font-size: 25px;
+    text-align: center;
+}
+#imgs{
+    width: 600px;
+    height: 600px;
+    margin-left: 30%;
+}
